@@ -1,0 +1,8 @@
+{
+    "title": "Bird",
+    "identifier": "com.yourcompany.wizardEVP.Bird",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
